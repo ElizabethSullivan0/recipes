@@ -3,7 +3,7 @@
 - avacado
 - salt
 - lime
-- lemon
+- paprika
 - jalapeno peppers
 - garlic
 ## Instructions
