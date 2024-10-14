@@ -7,6 +7,6 @@
 - jalapeno peppers
 - garlic
 ## Instructions
-
+- Smash avacados
 
 
