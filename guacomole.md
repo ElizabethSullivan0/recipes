@@ -6,6 +6,7 @@
 - paprika
 - jalapeno peppers
 - garlic
+- salt≈
 ## Instructions
 - Smash avacados
 - add salt
