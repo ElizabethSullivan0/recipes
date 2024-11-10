@@ -10,6 +10,7 @@
 ## Instructions
 - Smash avacados
 - add salt
+- mmix dry ingredients lol
 
 -eatttt
 samaara loves meeeeee
